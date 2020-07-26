@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab8_5RealityShowInheritanceComposition", "Lab8_5RealityShowInheritanceComposition.csproj", "{4DBC9D34-7561-419D-83B3-029B9AEF59DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DBC9D34-7561-419D-83B3-029B9AEF59DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBC9D34-7561-419D-83B3-029B9AEF59DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBC9D34-7561-419D-83B3-029B9AEF59DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBC9D34-7561-419D-83B3-029B9AEF59DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE384042-B625-4080-A554-A77A25628AEB}
+	EndGlobalSection
+EndGlobal
